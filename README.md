@@ -14,3 +14,4 @@
 
 . For dependencies version management, we can use Semantic Versions:
   - https://semver.org/
+  - https://github.com/Masterminds/semver
