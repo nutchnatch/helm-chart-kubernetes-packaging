@@ -11,3 +11,6 @@
   - Go text/template package (http://golang.org/pkg/text/template)
   - Spring functions project (http://masterminds.github.io/spring/)
   - Helm +roject (http://helm.sh)
+
+. For dependencies version management, we can use Semantic Versions:
+  - https://semver.org/
