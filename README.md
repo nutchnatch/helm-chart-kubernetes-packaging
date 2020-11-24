@@ -15,3 +15,10 @@
 . For dependencies version management, we can use Semantic Versions:
   - https://semver.org/
   - https://github.com/Masterminds/semver
+
+. Helm Stable Repository
+  - https://github.com/helm/charts
+  - https://helm.sh/blog/new-location-stable-incubator-charts/
+  - https://kubernetes-charts.storage.googleapis.com/
+  - https://helm.sh/docs/helm/helm_search_hub/
+  - https://artifacthub.io/
